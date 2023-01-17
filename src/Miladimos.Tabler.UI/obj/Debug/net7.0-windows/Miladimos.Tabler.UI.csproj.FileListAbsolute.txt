@@ -1,0 +1,17 @@
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\bin\Debug\net7.0-windows\Miladimos.Tabler.UI.deps.json
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\bin\Debug\net7.0-windows\Miladimos.Tabler.UI.dll
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\bin\Debug\net7.0-windows\Miladimos.Tabler.UI.pdb
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.csproj.AssemblyReference.cache
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI_MarkupCompile.cache
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI_MarkupCompile.lref
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Themes\Generic.baml
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.g.resources
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.AssemblyInfoInputs.cache
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.AssemblyInfo.cs
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.csproj.CoreCompileInputs.cache
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.dll
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\refint\Miladimos.Tabler.UI.dll
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\Miladimos.Tabler.UI.pdb
+E:\Programming\opensource\Miladimos.Tabler.UI\src\Miladimos.Tabler.UI\obj\Debug\net7.0-windows\ref\Miladimos.Tabler.UI.dll
